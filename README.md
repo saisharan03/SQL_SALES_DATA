@@ -30,7 +30,7 @@ Database Management System (MySQL / PostgreSQL / SQL Server)
 
 # Clone the repository:
 
-git clone https://github.com/your-username/sales-data-analysis.git
+git clone (https://github.com/saisharan03/SQL_SALES_DATA)
 
 Import the sales dataset into your preferred database.
 
